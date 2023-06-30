@@ -1,0 +1,5 @@
+print('Введите вид питомца, его возраст и кличку')
+type_animal = input()
+age = int(input())
+name = input()
+print("Это ", type_animal, "по кличке ", name, ". Возраст:", age)
